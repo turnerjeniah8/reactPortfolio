@@ -2,7 +2,7 @@ import React from "react";
 
 
 
-function Portfolio(props) {
+function PortfolioCard(props) {
     return (
         <div className="card port-card">
             <div className="img-container">
@@ -28,4 +28,4 @@ function Portfolio(props) {
     );
 }
 
-export default Portfolio;
+export default PortfolioCard;
