@@ -1,5 +1,5 @@
 import React from "react";
-import Placeholder from "../../Assets/placeholder.jpeg"
+import Placeholder from "../assets/placeholder.jpeg"
 
 function AboutmeCard() {
     return (

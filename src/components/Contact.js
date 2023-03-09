@@ -1,5 +1,5 @@
 import React from "react";
-import ContactPNG from "../../Assets/contact.jpg"
+import ContactPNG from "../assets/contact.jpg"
 
 
 function Contact(props) {
