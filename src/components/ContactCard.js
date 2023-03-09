@@ -2,7 +2,7 @@ import React from "react";
 import ContactPNG from "../assets/contact.jpg"
 
 
-function Contact(props) {
+function ContactCard(props) {
     return (
 
         <div className="contact-card">
@@ -25,4 +25,4 @@ function Contact(props) {
     );
 }
 
-export default Contact;
+export default ContactCard;
