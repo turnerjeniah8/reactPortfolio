@@ -5,7 +5,7 @@ import HomeCard from '../HomeCard'
 function Home() {
   return (
     <div>
-
+      <HomeProfile />
       <HomeCard />
 
     </div>

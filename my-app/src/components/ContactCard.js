@@ -12,7 +12,7 @@ function ContactCard(props) {
                 <div className="card-content">
                     <a href="mailto:turnerjeniah1120@gmail.com" className="ml-4 mt-4 font-weight-bold">Email</a>
 
-                    <a href="" className="ml-4 mt-4 font-weight-bold">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/jeniah-t-b98470230" className="ml-4 mt-4 font-weight-bold">LinkedIn</a>
 
                     <a href="https://www.linkedin.com/in/jeniah-t-b98470230" className="ml-4 mt-4 font-weight-bold">GitHub</a>
 

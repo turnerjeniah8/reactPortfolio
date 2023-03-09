@@ -1,5 +1,5 @@
 import React from "react";
-import AboutmeCard from '../AboutmeCard'
+import AboutmeCard from './AboutmeCard'
 
 function Aboutme() {
   return (

@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import Home from "./components/pages/Home";
 import About from "./components/pages/Aboutme";
 import Contact from "./components/pages/Contact";
+import PortfolioCard from "./components/PortfolioCard";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route path="/contact" component={Contact} />
+        <Route path="/portfolio" coponent = {PortfolioCard} />
         <Footer />
       </div>
     </Router>
