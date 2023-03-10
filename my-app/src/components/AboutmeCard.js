@@ -5,7 +5,7 @@ function AboutmeCard() {
     return (
         <div className="aboutme-container">
             <h3> About Me</h3>
-            <img src={Placeholder} alt="profile-photo" className="profile float-left"></img>
+            <img src={Placeholder} alt="profile-" className="profile float-left"></img>
             <div>
                 <div>
                     <p> Hello! I am a new Fullstack Developer. I have been interested in programming for about 3 years now. Currently I am enrolled in a Fullstack Bootcamp that will help me preapre for my future goals. Outside of my bootcaml I am a fulltime Business Administration and Management student at the University of California, Riverside. </p>
